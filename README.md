@@ -5,7 +5,7 @@ Simple marketing mix model with Python
  
 The goal of the project is to solve the marketing attribution problem.It aims to predict how much each marketing channel is 
 contributed to the sales of the business.The problem becomes complex when the market channels are offline channels like TV,radio.
-Teh project also gives idea about the relationship between the various media channels and the relationship with the sales.
+The project also gives idea about the relationship between the various media channels and the relationship with the sales.
  
 # About the data
  
